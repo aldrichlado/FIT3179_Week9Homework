@@ -10,7 +10,7 @@
         "url": "https://raw.githubusercontent.com/aldrichlado/FIT3179_Week9Homework/main/js/ne_110m_ocean.json",
         "format": {"type": "topojson", "feature": "ne_110m_ocean"}
       },
-      "mark": {"type": "geoshape", "fill": "aqua", "stroke": "white"}
+      "mark": {"type": "geoshape", "fill": "skyblue", "stroke": "white"}
     },
     {
       "data": {
