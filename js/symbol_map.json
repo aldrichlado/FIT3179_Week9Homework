@@ -37,13 +37,13 @@
         "size": {
           "field": "AvgSalary",
           "type": "quantitative",
-          "title": "Average Estimated Base Salary",
+          "title": "Average Base Salary ($AUD)",
           "scale": {"domain": [40000, 120000]}
         },
         "color": {
           "field": "AvgRating",
           "type": "quantitative",
-          "title": "Average Company Rating",
+          "title": "Average Company Rating (1-5)",
           "scale": {"scheme": "reds"}
         }
       }
